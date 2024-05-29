@@ -4,12 +4,22 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Javascript Developer
 --------------------
 
-I develop projects using React, Vue and Angular 2+. I have worked as a Frontend Developer for 8+ years. If you need Frontend Developer for Freelance / Remote / Full-time jobs, you can contact me at sertacpoyrazz@gmail.com.
+I have been working as a Frontend Developer for 10+ years and have been involved in various projects during this time.
+
+I develop projects with technologies such as React, Vue and Angular. I like to create user-friendly and visually appealing interfaces. I am especially interested in CRM projects and contribute to customer relationship management by focusing on user experience.
+
+I have also worked as a freelance UI Designer for 8 years, during which time I gained experience in different projects. I am used to working remotely and have effective communication and time management skills.
+
+I am constantly trying to learn to follow new frontend technologies and improve myself. I especially work meticulously on user-oriented design and clean code writing.
+
+If you are looking for a Frontend Developer for a freelance, remote or full-time job, you can contact me. I look forward to working with you and realising your projects.
+
+You can reach me at sertacpoyrazz@gmail.com. I will be happy to help you!
 
 * 🌍  I'm based in Cankaya, Ankara
-* 🖥️  See my portfolio at [SPFE.](http://spfe.dev)
+* 🖥️  See my portfolio at [Spfe.](http://spfe.dev)
 * ✉️  You can contact me at [sertacpoyrazz@gmail.com](mailto:sertacpoyrazz@gmail.com)
-* 🚀  I'm currently working on [SPFE.](http://spfe.dev)
+* 🚀  I'm currently working on [Spfe.](http://spfe.dev)
 * 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on anyone.
 
